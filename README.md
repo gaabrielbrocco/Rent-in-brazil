@@ -1,6 +1,6 @@
-# Destine-se
+# Rent in Brazil
 
-Página Web para uma empresa de viagens. Utilizada para praticar os conhecimentos com Vue e Vuetify.
+Exemplo de uma página web minimalista, focada em aluguéis de residências para quem deseja viajar.
 
 ## ❗️ Link Documentação
 
