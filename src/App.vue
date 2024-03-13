@@ -25,7 +25,7 @@
                   <v-img
                     class="mt-5"
                     v-bind="activatorProps"
-                    src="https://www.matuetevillas.com/wp-content/uploads/2023/08/Aluguel-de-casas-de-luxo-Interior-Sao-Miguel-dos-Milagres-Villa-5-2-scaled.jpg"
+                    src="https://img.holidu.com/images/7ac1d603-8169-49aa-9fd4-9757f6bc51a3/l.jpg"
                   >
                   </v-img>
                 </template>
@@ -372,22 +372,22 @@ export default {
     return {
       items1: [
         {
-          src: "https://www.matuetevillas.com/wp-content/uploads/2023/08/Aluguel-de-casas-de-luxo-Interior-Sao-Miguel-dos-Milagres-Villa-5-2-scaled.jpg",
+          src: "https://img.holidu.com/images/7ac1d603-8169-49aa-9fd4-9757f6bc51a3/l.jpg",
         },
         {
-          src: "https://www.matuetevillas.com/wp-content/uploads/2023/08/Aluguel-de-casas-de-luxo-Interior-Sao-Miguel-dos-Milagres-Villa-5-7-scaled.jpg",
+          src: "https://img.holidu.com/images/ee600632-af01-4ca8-9559-a7c118f6b435/l.jpg",
         },
         {
-          src: "https://www.matuetevillas.com/wp-content/uploads/2023/08/Aluguel-de-casas-de-luxo-Interior-Sao-Miguel-dos-Milagres-Villa-5-8-scaled.jpg",
+          src: "https://img.holidu.com/images/1f896ca1-10b6-4383-a445-51afc22969a2/l.jpg",
         },
         {
-          src: "https://www.matuetevillas.com/wp-content/uploads/2023/08/rogerio_maranhao_2022_ak_0-5087-scaled.jpg",
+          src: "https://img.holidu.com/images/93d69500-604a-442d-a1db-e6bcb3b38c24/l.jpg",
         },
         {
-          src: "https://www.matuetevillas.com/wp-content/uploads/2023/08/Aluguel-de-casas-de-luxo-Interior-Sao-Miguel-dos-Milagres-Villa-5-9-scaled.jpg",
+          src: "https://img.holidu.com/images/53d7f180-8ae2-4579-a5a0-a5065f9b9c83/l.jpg",
         },
         {
-          src: "https://www.matuetevillas.com/wp-content/uploads/2023/08/rogerio_maranhao_2022_ak_0-5150-scaled.jpg",
+          src: "https://img.holidu.com/images/323ef5a1-845f-46a2-9b7f-8c057050bf1f/l.jpg",
         },
       ],
       items2: [
