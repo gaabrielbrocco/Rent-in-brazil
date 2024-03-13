@@ -179,12 +179,6 @@
                   size="x-large"
                   variant="text"
                 ></v-btn>
-                <v-btn
-                  color="white"
-                  icon="mdi-share"
-                  size="x-large"
-                  variant="text"
-                ></v-btn>
               </div>
             </v-card>
           </v-col>
@@ -274,12 +268,6 @@
                   size="x-large"
                   variant="text"
                 ></v-btn>
-                <v-btn
-                  color="white"
-                  icon="mdi-share"
-                  size="x-large"
-                  variant="text"
-                ></v-btn>
               </div>
             </v-card>
           </v-col>
@@ -366,12 +354,6 @@
                 <v-btn
                   color="red-lighten-2"
                   icon="mdi-thumb-down"
-                  size="x-large"
-                  variant="text"
-                ></v-btn>
-                <v-btn
-                  color="white"
-                  icon="mdi-share"
                   size="x-large"
                   variant="text"
                 ></v-btn>
